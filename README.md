@@ -1,6 +1,6 @@
 - 👋 Hi, I’m donart
 - 👀 I’m interested in Linux.
-- 🌱 I’m currently learning Regorith with i3wm
+- 🌱 I’m currently learning Rust
 - 📫 My discord account is > donart_#1962 - it's what I mainly use to communicate.
 
 <!---
